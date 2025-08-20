@@ -99,9 +99,10 @@
   <section id="electromagnetic field theory">
     <h2>Electromagnetic Field Theory</h2>
     <div class="card-container">
-      <div class="card">Vectors</div>
-      <div class="card">DC Machines</div>
-      <div class="card">Induction Motors</div>
+      <div class="card">Vector Analysis</div>
+      <div class="card">Electrostatics</div>
+      <div class="card">Magnetostatics</div>
+      <div class="card">Uniform Plane Wave</div>
     </div>
   </section>
 
@@ -118,8 +119,10 @@
     <h2>Power Systems</h2>
     <div class="card-container">
       <div class="card">Generation</div>
-      <div class="card">Transmission</div>
-      <div class="card">Distribution</div>
+      <div class="card">Line Parameters</div>
+      <div class="card">Load Flow and Fault Analysis</div>
+      <div class="card">Power System Stability</div>
+      <div class="card">Power System Protection and Switchgear</div>
     </div>
   </section>
 
