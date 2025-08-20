@@ -72,25 +72,41 @@
   </header>
 
   <nav>
-    <a href="#circuits">Electric Circuits</a>
-    <a herf="#electromagnetic field theory">
-    <a href="#machines">Machines</a>
-    <a href="#power">Power Systems</a>
-    <a href="#electronics">Electronics</a>
+    <a href="#network theory ">Network Theory</a>
+    <a herf="#electromagnetic field theory">Electromagnetic Field Theory </a>
+    <a href="#electric machines">Electric Machines</a>
+    <a href="#power system">Power System</a>
+    <a href="#control system">Control System</a>
+    <a href="#signal and systems">Signal And Systems</a>
+    <a href="#analog electronics">Analog Electronics</a>
+    <a href="#digital electronics">Digital Electronics</a>
     <a href="#measurements">Measurements</a>
   </nav>
 
-  <section id="circuits">
-    <h2>Circuits</h2>
+  <section id="network theory">
+    <h2>Network Theory</h2>
     <div class="card-container">
-      <div class="card">Ohm's Law</div>
-      <div class="card">AC & DC Analysis</div>
+      <div class="card">Basic Concepts</div>
       <div class="card">Network Theorems</div>
+      <div class="card">Transients</div>
+      <div class="card">AC Analysis</div>
+      <div class="card">Resonance</div>
+      <div class="card">Coupled Circuits</div>
+      <div class="card">Two Port Networks</div>
+    </div>
+  </section>
+  
+  <section id="electromagnetic field theory">
+    <h2>Electromagnetic Field Theory</h2>
+    <div class="card-container">
+      <div class="card">Vectors</div>
+      <div class="card">DC Machines</div>
+      <div class="card">Induction Motors</div>
     </div>
   </section>
 
-  <section id="machines">
-    <h2>Machines</h2>
+  <section id="electric machines">
+    <h2>Electric Machines</h2>
     <div class="card-container">
       <div class="card">Transformers</div>
       <div class="card">DC Machines</div>
@@ -98,7 +114,7 @@
     </div>
   </section>
 
-  <section id="power">
+  <section id="power systems">
     <h2>Power Systems</h2>
     <div class="card-container">
       <div class="card">Generation</div>
