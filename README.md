@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -73,7 +72,8 @@
   </header>
 
   <nav>
-    <a href="#circuits">Circuits</a>
+    <a href="#circuits">Electric Circuits</a>
+    <a herf="#electromagnetic field theory">
     <a href="#machines">Machines</a>
     <a href="#power">Power Systems</a>
     <a href="#electronics">Electronics</a>
