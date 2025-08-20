@@ -11,7 +11,7 @@
       color: #2c003e;
     }
     header {
-      background-color: #6a0dad; /* deep purple */
+      background-color: #665679; /* deep purple */
       padding: 15px 20px;
       color: white;
       text-align: center;
